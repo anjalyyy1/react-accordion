@@ -1,0 +1,23 @@
+.heading {
+    background-color: rgb(141, 8, 97);
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
+p {
+    background-color: rgb(170, 169, 169);
+    color: azure;
+    font-size: 20px;
+    text-align: left;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0;
+}
+
+.accordionItem {
+    margin-bottom: 20px;
+}

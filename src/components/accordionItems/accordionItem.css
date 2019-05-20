@@ -16,8 +16,13 @@ p {
     border-radius: 5px;
     padding: 20px;
     margin: 0;
+    display: none;
 }
 
 .accordionItem {
     margin-bottom: 20px;
+}
+
+.active {
+    display: block;
 }
